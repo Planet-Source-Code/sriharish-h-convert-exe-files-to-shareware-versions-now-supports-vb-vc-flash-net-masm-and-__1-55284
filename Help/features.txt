@@ -1,0 +1,22 @@
+>Best software Protection code in planet source code.com. 
+>Supports VB - Screensavers-VC++ - Flash - MASM and .NET (partially) 
+> Supports Dark Basic exe files. 
+>Convert your exe file into secured trial version of your choice within few seconds and a few clicks 
+>No code to be added to the source code. 
+>Uses best memory handling features, supports non windows NT based OS's 
+>Best Debugger and monitor detection, uses a large debugger's list (and updated regularly) 
+>3 secure trial types (Trial by date - Trial by days and Trial by count). 
+>Manually impossible to revert trial settings. 
+>Facility to give free updates for registered users. 
+>Reset trial on new versions. 
+>Secure Key generation - Registration key is encrypted! 
+>Hardware Finger Print. 
+>Black Listed Codes. (Supports up to 2000 Black listed codes) 
+>Add your own "Buy Now" Links and support emails. 
+>Protect multiple applications. uses different settings 
+>Advanced Tamper detection system like trial info modification + date reversal + CRC and more! 
+>Advanced Compatibility switch (required for some exe's) 
+>Save projects for future use. 
+>More security features for Visual Basic Applications. 
+>Uses screensaver Protocols. 
+>Superb Fast Loader- You software loads up in no time. 
